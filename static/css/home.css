@@ -28,12 +28,12 @@ body {
   }
   
   nav a {
-    color: #fff;
+    color: #ffffff;
     text-decoration: none;
   }
   
   .hero {
-    background-image: url('https://images.unsplash.com/photo-1548378142-8d33024d0cf9');
+    background-image: url('https://images.unsplash.com/photo-1568696331348-b166dcf47057?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80');
     background-size: cover;
     color: #fff;
     text-align: center;
