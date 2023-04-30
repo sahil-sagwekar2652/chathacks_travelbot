@@ -171,3 +171,28 @@
         border-radius: 0px;
     }
 }
+
+/* df-messenger styles */
+
+df-messenger {
+    --df-messenger-bot-messenger: #ffffffbd;
+    --df-messenger-button-titlebar-color: rgb(94, 122, 141);
+    --df-messenger-chat-background-color: #fff;
+    --df-messenger-send-icon: rgb(94, 122, 141);
+    --df-messenger-user-message: #e5e5e5;
+
+}
+
+df-messenger chat-message {
+    max-width: 70%;
+    word-wrap: break-word;
+    display: inline-block;
+    background-color: #F5F5F5;
+    padding: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+    line-height: 1.2;
+    min-width: 50px; /* minimum width for short messages */
+  }
+  
