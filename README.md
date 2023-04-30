@@ -16,7 +16,7 @@ Flight Bot uses natural language processing and machine learning to provide flig
 
 ## 🎥 Demo video
 
-[![Opera Snapshot_2023-04-23_135049_localhost](https://user-images.githubusercontent.com/89456541/233836083-ea218b87-5a34-4969-a06b-9a80cb1d9adb.png)](https://www.youtube.com/watch?v=nGDiP6eFsiM)
+[![image](https://user-images.githubusercontent.com/89456541/235357042-10fd6d77-5fdd-48b3-82ab-1535498738a9.png)](https://youtu.be/ECNyq2C7MvE)
 
 ## License
 
